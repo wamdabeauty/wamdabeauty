@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.github.com/" alt="شعار مدونة ومضة جمالية" width="180" height="180" style="border-radius: 50%;">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQF_Z4adghuF-p3L81eFl_SMSIIGCUWBv0UQkxNQszXjX05elg5VhbhcgxkmeWodFIf1EoPi9vUWHaAbUVg7fuYTUrKg87P6Jg4LS8YIFA3_mq8GXT6iCUgVHWGruaEQ3B4Da18UsctUIdOdmilPihfWIFsWH935GconEcF7pvDX8IYhKI22LMk1YyOB0/s180-rw/apple-touch-icon-180x180.png" alt="شعار مدونة ومضة جمالية" width="180" height="180" style="border-radius: 20%;">
   <h2>مرحبًا بك في ملف مدونة ومضة جمالية على GitHub ✨</h2>
 </div>
 
